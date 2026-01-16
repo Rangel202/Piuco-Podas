@@ -1,0 +1,25 @@
+COMO ADICIONAR SUAS FOTOS:
+
+1. Coloque suas fotos nesta pasta (images/trabalhos/)
+
+2. Renomeie as fotos para:
+   - trabalho1.jpg (ou .png)
+   - trabalho2.jpg (ou .png)
+   - trabalho3.jpg (ou .png)
+   - trabalho4.jpg (ou .png)
+   - trabalho5.jpg (ou .png)
+   - trabalho6.jpg (ou .png)
+
+3. Formatos aceitos: JPG, JPEG ou PNG
+
+4. Tamanho recomendado: 
+   - Mínimo: 800x600 pixels
+   - Ideal: 1200x800 pixels ou maior
+
+5. Dica: Use ferramentas como TinyPNG.com para otimizar as fotos antes de adicionar (reduz o tamanho do arquivo sem perder muita qualidade)
+
+IMPORTANTE:
+- As fotos já estão referenciadas no código HTML
+- Se você usar nomes diferentes, precisará atualizar o arquivo index.html também
+- Mantenha os nomes dos arquivos em minúsculas
+
